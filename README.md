@@ -1,2 +1,2 @@
-# js-ali
+my code in js ---> script.js.
 
